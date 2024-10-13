@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lemonade</string>
+    <string name="lemon_tree">Select a lemon from the tree</string>
+    <string name="lemon">Squeeze the lemon</string>
+    <string name="glas_of_lemonade">Enjoy your glass of lemonade!</string>
+    <string name="empty_glass">Your glass is empty</string>
+</resources>
